@@ -1,7 +1,5 @@
 import cv2 as cv
 
-# https://www.youtube.com/watch?v=oXlwWbU8l2o
-
 img = cv.imread('gapofitzy.jpg')
 # cv.imshow('Person', img)
 
