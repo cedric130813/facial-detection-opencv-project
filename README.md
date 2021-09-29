@@ -1,6 +1,6 @@
 ### openCV Project (face detection)
 <hr>
-#### This is an [openCV project](https://opencv.org/) using [Haar Cascade Frontal Face (source code)](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) 
+#### This is an [openCV project](https://opencv.org/) using [Haar Cascade Frontal Face](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) 
 <br>
 Demo: (For this demo, I used the images of the K-pop group [ITZY](https://en.wikipedia.org/wiki/Itzy) to identify the group members)
 <br>
