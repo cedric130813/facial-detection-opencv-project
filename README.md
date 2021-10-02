@@ -1,7 +1,7 @@
 ### openCV Project (face detection)
 <hr>
 
-This is an [openCV project](https://opencv.org/) using [Haar Cascade Frontal Face](https://github.com/opencv/opencv/tree/master/data/haarcascades). Haar Cascade has been around for quite a number of years yet it is a very powerful and useful tool when it comes to face detection using openCV. What is not included here is the training yaml file, but you can run the [face_train.py](https://github.com/cedric130813/opencv-project/blob/main/face_train.py) to create the .yml file (if you refer to the face_train.py, it creates face_trained.yml after 20 training cycles.
+This is an [openCV project](https://opencv.org/) using [Haar Cascade Frontal Face](https://github.com/opencv/opencv/tree/master/data/haarcascades). Haar Cascade has been around for quite a number of years yet it is a very powerful and useful tool when it comes to face detection using openCV. What is not included here is the training.yml file, but you can run the [face_train.py](https://github.com/cedric130813/opencv-project/blob/main/face_train.py) to create the .yml file (if you refer to the face_train.py, it creates face_trained.yml after 20 training cycles)
 
 For further reading on Haar-like features https://en.wikipedia.org/wiki/Haar-like_feature
 
